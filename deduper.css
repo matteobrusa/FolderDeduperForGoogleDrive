@@ -1,0 +1,27 @@
+body  {
+    font-family: monospace;
+    margin: 0;
+    /* height: 100%; */
+}
+
+#log {
+    /* overflow-y: visible; */
+    /* height:  100%; */
+}
+
+div>p {
+    margin:0;
+    font-size: 0.8em
+}
+
+.debug {
+    color: darkgray
+}
+
+.info {
+    color: black
+}
+
+.warn {
+    color: darkgoldenrod
+}
